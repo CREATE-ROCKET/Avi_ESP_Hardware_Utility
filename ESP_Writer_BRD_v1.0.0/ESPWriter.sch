@@ -10936,24 +10936,24 @@ Source: www.kingbright.com</description>
 </net>
 <net name="N$4" class="0">
 <segment>
-<pinref part="JP3" gate="A" pin="6"/>
-<wire x1="124.46" y1="66.04" x2="132.08" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="66.04" x2="132.08" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="68.58" x2="132.08" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="40.64" x2="10.16" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="G$1" pin="5"/>
 <wire x1="10.16" y1="40.64" x2="10.16" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="10.16" y1="63.5" x2="20.32" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="JP3" gate="A" pin="4"/>
+<wire x1="124.46" y1="68.58" x2="132.08" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
-<pinref part="JP3" gate="A" pin="4"/>
-<wire x1="124.46" y1="68.58" x2="137.16" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="137.16" y1="68.58" x2="137.16" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="137.16" y1="66.04" x2="137.16" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="35.56" x2="5.08" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="5.08" y1="35.56" x2="5.08" y2="73.66" width="0.1524" layer="91"/>
 <pinref part="JP1" gate="G$1" pin="1"/>
 <wire x1="5.08" y1="73.66" x2="20.32" y2="73.66" width="0.1524" layer="91"/>
+<pinref part="JP3" gate="A" pin="6"/>
+<wire x1="124.46" y1="66.04" x2="137.16" y2="66.04" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$6" class="0">
